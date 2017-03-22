@@ -1,4 +1,4 @@
-package parsing;
+// This code has been published by UCSD
 
 
 import java.util.ArrayList;
